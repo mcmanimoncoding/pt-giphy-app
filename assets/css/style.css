@@ -1,0 +1,13 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: radial-gradient(#eeeeee,#ffffff)
+}
+
+.jumbotron, .card-header{
+    background-image: linear-gradient(#9fffd7, #e7fcfb, #effdff, #ffffff)
+}
+
+.card-body{
+
+    background-image: linear-gradient(#eee,#b3b3b3);
+}
